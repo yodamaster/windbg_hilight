@@ -1,0 +1,9 @@
+#pragma once
+
+#define SCLEX_DBGCMD 108
+
+// Òª±ÈSCE_ASM_OPCODE 17´ó
+#define SCE_DBGCMD_DEFAULT 30
+#define SCE_DBGCMD_STRINGEOL 31
+#define SCE_DBGCMD_CMD 32
+#define SCE_DBGCMD_CMD_CHAR 33
